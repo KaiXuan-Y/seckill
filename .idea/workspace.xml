@@ -11,13 +11,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="325c6a1e-23fc-46cd-ad9f-04d8de5dca6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="325c6a1e-23fc-46cd-ad9f-04d8de5dca6a" name="Default Changelist" comment="还未完成高并发场景" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,8 +117,30 @@
       <updated>1683168836529</updated>
       <workItem from="1683168844044" duration="6968000" />
       <workItem from="1683187281507" duration="108000" />
-      <workItem from="1683198723361" duration="34555000" />
+      <workItem from="1683198723361" duration="35037000" />
     </task>
+    <task id="LOCAL-00001" summary="gitignore">
+      <created>1683300139969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683300139969</updated>
+    </task>
+    <task id="LOCAL-00002" summary="还未完成高并发场景的秒杀">
+      <created>1683300235780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683300235780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="还未完成高并发场景">
+      <created>1683300382217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683300382217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,11 +151,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="还未完成高并发场景的秒杀" />
+    <MESSAGE value="还未完成高并发场景" />
+    <option name="LAST_COMMIT_MESSAGE" value="还未完成高并发场景" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1169" y="444" key="#com.intellij.ide.util.MemberChooser" timestamp="1683257474699">
