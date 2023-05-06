@@ -32,6 +32,13 @@ public class SecKillController {
     @Autowired
     IOrderService orderService;
 
+    /**
+     * 优化前QPS：155
+     * @param model
+     * @param user
+     * @param goodsId
+     * @return
+     */
     @RequestMapping("/doSeckill")
     @Transactional
     public String doSecKill(Model model, User user, Long goodsId) {
