@@ -1,7 +1,9 @@
 package com.ykx.seckill.controller;
 
 
+import com.ykx.seckill.pojo.User;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
@@ -15,5 +17,4 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/seckillGoods")
 public class SeckillGoodsController {
-
 }
